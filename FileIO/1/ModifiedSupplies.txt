@@ -1,0 +1,12 @@
+pen : 19
+gugu : 12
+gaga : 1
+bounce : 12
+pen -> 19
+gugu -> 12
+gaga -> 1
+bounce -> 12
+pen :- 19
+gugu :- 12
+gaga :- 1
+bounce :- 12
